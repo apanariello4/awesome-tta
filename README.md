@@ -36,7 +36,7 @@
 - [**CoTTA**] Continual Test-Time Domain Adaptation (CVPR 22) [Paper](https://arxiv.org/pdf/2203.13591.pdf)
 
 ### Test-Time Prompt Tuning
-- [**TDA**] Efficient Test-Time Adaptation of Vision-Language Models (CVPR 24) [Paper](https://arxiv.org/pdf/2403.18293.pdf)
+- [**TDA**] Efficient Test-Time Adaptation of Vision-Language Models (CVPR 24) [Paper](https://arxiv.org/pdf/2403.18293.pdf) [Code](https://github.com/kdiAAA/TDA)
 - [**TPS**] Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models (ArXiv 24) [Paper](https://arxiv.org/pdf/2403.12952.pdf)
 - [**C-TPT**]: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion (ICLR 24) [Paper](https://arxiv.org/pdf/2403.14119.pdf)
 - Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models (ICLR 24) [Paper](https://arxiv.org/pdf/2305.18010)
