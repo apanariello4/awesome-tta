@@ -2,6 +2,7 @@
 
 
 ### Classic TTA
+- [**ATTA**] Active Test-Time Adaptation: Theoretical Analyses and An Algorithm (ICLR 24) [Paper](https://arxiv.org/pdf/2404.05094.pdf) [Code](https://github.com/divelab/ATTA)
 - [**GDA**] GDA: Generalized Diffusion for Robust Test-time Adaptation [Paper](https://arxiv.org/pdf/2404.00095.pdf) #diffusion
 - [**TTT-KD**] TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models [Paper](https://arxiv.org/pdf/2403.11691.pdf)
 - [**CoDA**] CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning (ArXiv 24) [Paper](https://arxiv.org/pdf/2403.17369.pdf)
