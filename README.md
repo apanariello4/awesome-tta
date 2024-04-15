@@ -37,7 +37,7 @@
 - [**CoTTA**] Continual Test-Time Domain Adaptation (CVPR 22) [Paper](https://arxiv.org/pdf/2203.13591.pdf)
 
 ### Test-Time Prompt Tuning
-- [**PromptSync**] PromptSync: Bridging Domain Gaps in Vision-Language Models through Class-Aware Prototype Alignment and Discrimination [Paper](https://arxiv.org/pdf/2404.07520.pdf)
+- [**PromptSync**] PromptSync: Bridging Domain Gaps in Vision-Language Models through Class-Aware Prototype Alignment and Discrimination (ArXiv 24) [Paper](https://arxiv.org/pdf/2404.07520.pdf)
 - [**TDA**] Efficient Test-Time Adaptation of Vision-Language Models (CVPR 24) [Paper](https://arxiv.org/pdf/2403.18293.pdf) [Code](https://github.com/kdiAAA/TDA)
 - [**TPS**] Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models (ArXiv 24) [Paper](https://arxiv.org/pdf/2403.12952.pdf)
 - [**C-TPT**]: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion (ICLR 24) [Paper](https://arxiv.org/pdf/2403.14119.pdf)
