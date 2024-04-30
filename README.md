@@ -50,6 +50,7 @@
 - [**TPT**] Test-Time Prompt Tuning for Zero-shot Generalization in Vision-Language Models (NeurIPS 22) [Paper](https://arxiv.org/pdf/2209.07511.pdf)
 
 ### Other
+- [**MoE-Adapters4CL**] Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters (CVPR 24) [Paper](https://arxiv.org/pdf/2403.11549) [Code](https://github.com/JiazuoYu/MoE-Adapters4CL)
 - [**CoLeCLIP**] CoLeCLIP: Open-Domain Continual Learning via Joint Task Prompt and Vocabulary Learning (ArXiv 24) [Paper](https://arxiv.org/pdf/2403.10245.pdf)
 - [**ZSCL**] Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (ICCV 23) [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Preventing_Zero-Shot_Transfer_Degradation_in_Continual_Learning_of_Vision-Language_Models_ICCV_2023_paper.pdf)
 
