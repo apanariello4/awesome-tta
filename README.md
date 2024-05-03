@@ -2,6 +2,7 @@
 
 
 ### Classic TTA
+- [**CLIPArTT**] CLIPArTT: Light-weight Adaptation of CLIP to New Domains at Test Time (ArXiv 24) [Paper](https://arxiv.org/pdf/2405.00754)
 - [**ATTA**] Active Test-Time Adaptation: Theoretical Analyses and An Algorithm (ICLR 24) [Paper](https://arxiv.org/pdf/2404.05094.pdf) [Code](https://github.com/divelab/ATTA)
 - [**GDA**] GDA: Generalized Diffusion for Robust Test-time Adaptation [Paper](https://arxiv.org/pdf/2404.00095.pdf) #diffusion
 - [**TTT-KD**] TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models [Paper](https://arxiv.org/pdf/2403.11691.pdf)
