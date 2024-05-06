@@ -38,6 +38,7 @@
 - [**CoTTA**] Continual Test-Time Domain Adaptation (CVPR 22) [Paper](https://arxiv.org/pdf/2203.13591.pdf)
 
 ### Test-Time Prompt Tuning
+- [**MTA**] On the test-time zero-shot generalization of vision-language models:Do we really need prompt learning? (CVPR 24) [Paper](https://arxiv.org/pdf/2405.02266) [Code](https://github.com/MaxZanella/MTA)
 - [**TFUP-T**] Training-Free Unsupervised Prompt for Vision-Language Models (ArXiv 24) [Paper](https://arxiv.org/pdf/2404.16339) [Code](https://github.com/wlb12345/TFUP) #DomainNet
 - [**PromptSync**] PromptSync: Bridging Domain Gaps in Vision-Language Models through Class-Aware Prototype Alignment and Discrimination (ArXiv 24) [Paper](https://arxiv.org/pdf/2404.07520.pdf)
 - [**TDA**] Efficient Test-Time Adaptation of Vision-Language Models (CVPR 24) [Paper](https://arxiv.org/pdf/2403.18293.pdf) [Code](https://github.com/kdiAAA/TDA)
