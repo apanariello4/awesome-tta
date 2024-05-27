@@ -40,7 +40,7 @@
 ### Test-Time Prompt Tuning
 - [**MTA**] On the test-time zero-shot generalization of vision-language models:Do we really need prompt learning? (CVPR 24) [Paper](https://arxiv.org/pdf/2405.02266) [Code](https://github.com/MaxZanella/MTA)
 - [**TFUP-T**] Training-Free Unsupervised Prompt for Vision-Language Models (ArXiv 24) [Paper](https://arxiv.org/pdf/2404.16339) [Code](https://github.com/wlb12345/TFUP) #DomainNet
-- [**PromptSync**] PromptSync: Bridging Domain Gaps in Vision-Language Models through Class-Aware Prototype Alignment and Discrimination (ArXiv 24) [Paper](https://arxiv.org/pdf/2404.07520.pdf)
+- [**PromptSync**] PromptSync: Bridging Domain Gaps in Vision-Language Models through Class-Aware Prototype Alignment and Discrimination (CVPRW 24) [Paper](https://arxiv.org/pdf/2404.07520.pdf)
 - [**TDA**] Efficient Test-Time Adaptation of Vision-Language Models (CVPR 24) [Paper](https://arxiv.org/pdf/2403.18293.pdf) [Code](https://github.com/kdiAAA/TDA)
 - [**TPS**] Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models (ArXiv 24) [Paper](https://arxiv.org/pdf/2403.12952.pdf)
 - [**C-TPT**]: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion (ICLR 24) [Paper](https://arxiv.org/pdf/2403.14119.pdf)
