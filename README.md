@@ -46,7 +46,7 @@
 - [**C-TPT**]: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion (ICLR 24) [Paper](https://arxiv.org/pdf/2403.14119.pdf)
 - Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models (ICLR 24) [Paper](https://arxiv.org/pdf/2305.18010)
 - [**VPA**] VPA: Fully Test-Time Visual Prompt Adaptation (ACMM 23) [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611835)
-- [**PromptAlign**] Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization [Paper](https://arxiv.org/pdf/2311.01459)
+- [**PromptAlign**] Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization (NeurIPS 23) [Paper](https://arxiv.org/pdf/2311.01459)
 - [**SwapPrompt**] SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models (NeurIPS 23) [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cdd0640218a27e9e2c0e52e324e25db0-Paper-Conference.pdf)
 - [**DiffTPT**] Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning (ICCV 23) [Paper](https://arxiv.org/pdf/2308.06038) #diffusion
 - [**TPT**] Test-Time Prompt Tuning for Zero-shot Generalization in Vision-Language Models (NeurIPS 22) [Paper](https://arxiv.org/pdf/2209.07511.pdf)
