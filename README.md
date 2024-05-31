@@ -7,26 +7,25 @@
 - [**GDA**] GDA: Generalized Diffusion for Robust Test-time Adaptation [Paper](https://arxiv.org/pdf/2404.00095.pdf) #diffusion
 - [**TTT-KD**] TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models [Paper](https://arxiv.org/pdf/2403.11691.pdf)
 - [**CoDA**] CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning (ArXiv 24) [Paper](https://arxiv.org/pdf/2403.17369.pdf)
-- Robust Overfitting Does Matter: Test-Time Adversarial Purification With FGSM [Paper](https://arxiv.org/pdf/2403.11448.pdf) #augmentation #adversarial
-- Efficient Diffusion-Driven Corruption Editor for Test-Time Adaptation [Paper](https://arxiv.org/pdf/2403.10911.pdf) #diffusion #augmentation
-- Test-time Adaptation Meets Image Enhancement: Improving Accuracy via Uncertainty-aware Logit Switching (IJCNN 24) [Paper](https://arxiv.org/pdf/2403.17423.pdf)
-- Bag of Tricks for Fully Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Mounsaveng_Bag_of_Tricks_for_Fully_Test-Time_Adaptation_WACV_2024_paper.pdf)
-- pSTarC: Pseudo Source Guided Target Clustering for Fully Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Sreenivas_pSTarC_Pseudo_Source_Guided_Target_Clustering_for_Fully_Test-Time_Adaptation_WACV_2024_paper.pdf)
-- REALM: Robust Entropy Adaptive Loss Minimization for Improved Single-Sample Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Seto_REALM_Robust_Entropy_Adaptive_Loss_Minimization_for_Improved_Single-Sample_Test-Time_WACV_2024_paper.pdf)
-- Universal Test-time Adaptation through Weight Ensembling, Diversity Weighting, and Prior Correction (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Marsden_Universal_Test-Time_Adaptation_Through_Weight_Ensembling_Diversity_Weighting_and_Prior_WACV_2024_paper.pdf)
-- Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Layer-Wise_Auto-Weighting_for_Non-Stationary_Test-Time_Adaptation_WACV_2024_paper.pdf)
+- [**Decorruptor**] Efficient Diffusion-Driven Corruption Editor for Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2403.10911.pdf) #diffusion #augmentation
+- [**TECA**] Test-time Adaptation Meets Image Enhancement: Improving Accuracy via Uncertainty-aware Logit Switching (IJCNN 24) [Paper](https://arxiv.org/pdf/2403.17423.pdf)
+- [**BoT**] Bag of Tricks for Fully Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Mounsaveng_Bag_of_Tricks_for_Fully_Test-Time_Adaptation_WACV_2024_paper.pdf)
+- [**pSTarC**] pSTarC: Pseudo Source Guided Target Clustering for Fully Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Sreenivas_pSTarC_Pseudo_Source_Guided_Target_Clustering_for_Fully_Test-Time_Adaptation_WACV_2024_paper.pdf)
+- [**REALM**] REALM: Robust Entropy Adaptive Loss Minimization for Improved Single-Sample Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Seto_REALM_Robust_Entropy_Adaptive_Loss_Minimization_for_Improved_Single-Sample_Test-Time_WACV_2024_paper.pdf)
+- [**ROID**] Universal Test-time Adaptation through Weight Ensembling, Diversity Weighting, and Prior Correction (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Marsden_Universal_Test-Time_Adaptation_Through_Weight_Ensembling_Diversity_Weighting_and_Prior_WACV_2024_paper.pdf)
+- [] Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Layer-Wise_Auto-Weighting_for_Non-Stationary_Test-Time_Adaptation_WACV_2024_paper.pdf)
 - [**CAFA**] CAFA: Class-Aware Feature Alignment for Test-Time Adaptation (ICCV 23) [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jung_CAFA_Class-Aware_Feature_Alignment_for_Test-Time_Adaptation_ICCV_2023_paper.pdf)
-- Back to the Source: Diffusion-Driven Test-Time Adaptation (CVPR 23) [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Back_to_the_Source_Diffusion-Driven_Adaptation_To_Test-Time_Corruption_CVPR_2023_paper.pdf)
+- [**DDA**] Back to the Source: Diffusion-Driven Test-Time Adaptation (CVPR 23) [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Back_to_the_Source_Diffusion-Driven_Adaptation_To_Test-Time_Corruption_CVPR_2023_paper.pdf)
 - [**SAR**] Towards Stable Test-Time Adaptation in Dynamic Wild World (ICLR 23) [Paper](https://arxiv.org/pdf/2302.12400.pdf)
 - Test-Time Adaptation via Conjugate Pseudo-labels (NeurIPS 22) [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/28e9eff897f98372409b40ae1ed3ea4c-Paper-Conference.pdf)
 
 ### Continual TTA
 - [**AETTA**] AETTA: Label-Free Accuracy Estimation for Test-Time Adaptation (CVPR 24) [Paper](https://arxiv.org/pdf/2404.01351.pdf)
-- [**Continual-MAE**] Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2312.12480.pdf)
+- [**Continual-MAE**] Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation (CVPR 24) [Paper](https://arxiv.org/pdf/2312.12480.pdf)
 - [**EATA-C**] Uncertainty-calibrated test-time model adaptation without forgetting (ArXiv 24) [Paper](https://arxiv.org/pdf/2403.11491.pdf)
 - [**ViDA**] ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation (ICLR 24) [Paper](https://arxiv.org/pdf/2306.04344)
 - [**PALM**] PALM: Pushing Adaptive Learning Rate Mechanisms for Continual Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2403.10650.pdf)
-- [**BeCoTTA**] BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2402.08712.pdf)
+- [**BeCoTTA**] BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation (ICML 24) [Paper](https://arxiv.org/pdf/2402.08712.pdf)
 - [**DSS**] Continual Test-time Domain Adaptation via Dynamic Sample Selection (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Continual_Test-Time_Domain_Adaptation_via_Dynamic_Sample_Selection_WACV_2024_paper.pdf)
 - Effective Restoration of Source Knowledge in Continual Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Niloy_Effective_Restoration_of_Source_Knowledge_in_Continual_Test_Time_Adaptation_WACV_2024_paper.pdf)
 - [**CoDAG**] Complementary domain adaptation and generalization for unsupervised continual domain shift learning (ICCV 23) [Paper](https://arxiv.org/pdf/2303.15833.pdf)
