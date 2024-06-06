@@ -2,6 +2,7 @@
 
 
 ### Classic TTA
+- [**PLF**] Less is More: Pseudo-Label Filtering for Continual Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.02609) [Code](https://github.com/tjy1423317192/PLF)
 - [**CLIPArTT**] CLIPArTT: Light-weight Adaptation of CLIP to New Domains at Test Time (ArXiv 24) [Paper](https://arxiv.org/pdf/2405.00754)
 - [**FOA***] Test-Time Model Adaptation with Only Forward Passes (ICML 24) [Paper](https://arxiv.org/pdf/2404.01650)
 - [**ATTA**] Active Test-Time Adaptation: Theoretical Analyses and An Algorithm (ICLR 24) [Paper](https://arxiv.org/pdf/2404.05094.pdf) [Code](https://github.com/divelab/ATTA)
