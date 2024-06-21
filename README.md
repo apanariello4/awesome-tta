@@ -2,6 +2,7 @@
 
 
 ### Classic TTA
+- [**WATT**] WATT: Weight Average Test-Time Adaption of CLIP (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.13875) [Code](https://github.com/Mehrdad-Noori/WATT)
 - [**PLF**] Less is More: Pseudo-Label Filtering for Continual Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.02609) [Code](https://github.com/tjy1423317192/PLF)
 - [**CLIPArTT**] CLIPArTT: Light-weight Adaptation of CLIP to New Domains at Test Time (ArXiv 24) [Paper](https://arxiv.org/pdf/2405.00754)
 - [**FOA***] Test-Time Model Adaptation with Only Forward Passes (ICML 24) [Paper](https://arxiv.org/pdf/2404.01650)
@@ -22,6 +23,7 @@
 - Test-Time Adaptation via Conjugate Pseudo-labels (NeurIPS 22) [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/28e9eff897f98372409b40ae1ed3ea4c-Paper-Conference.pdf)
 
 ### Continual TTA
+- [**DoSAPP**] Controlling Forgetting with Test-Time Data in Continual Learning (arXiv 24) [Paper](https://arxiv.org/pdf/2406.13653)
 - [**DPCore**] Dynamic Domains, Dynamic Solutions: DPCore for Continual Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.10737) [Code](https://github.com/zybeich/DPCore)
 - [**AETTA**] AETTA: Label-Free Accuracy Estimation for Test-Time Adaptation (CVPR 24) [Paper](https://arxiv.org/pdf/2404.01351.pdf)
 - [**Continual-MAE**] Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation (CVPR 24) [Paper](https://arxiv.org/pdf/2312.12480.pdf)
