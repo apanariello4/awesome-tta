@@ -23,6 +23,7 @@
 - Test-Time Adaptation via Conjugate Pseudo-labels (NeurIPS 22) [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/28e9eff897f98372409b40ae1ed3ea4c-Paper-Conference.pdf)
 
 ### Continual TTA
+- [**PSMT**] Parameter-Selective Continual Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2407.02253) [Code](https://github.com/JiaxuTian/PSMT)
 - [**CTAOD**] Exploring Test-Time Adaptation for Object Detection in Continually Changing Environments (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.16439)
 - [**DoSAPP**] Controlling Forgetting with Test-Time Data in Continual Learning (arXiv 24) [Paper](https://arxiv.org/pdf/2406.13653)
 - [**DPCore**] Dynamic Domains, Dynamic Solutions: DPCore for Continual Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.10737) [Code](https://github.com/zybeich/DPCore)
