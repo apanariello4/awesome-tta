@@ -23,6 +23,7 @@
 - Test-Time Adaptation via Conjugate Pseudo-labels (NeurIPS 22) [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/28e9eff897f98372409b40ae1ed3ea4c-Paper-Conference.pdf)
 
 ### Continual TTA
+- [**OBAO**] Reshaping the Online Data Buffering and Organizing Mechanism for Continual Test-Time Adaptation (ECCV 24) [Paper](https://arxiv.org/pdf/2407.09367) [Code](https://github.com/z1358/OBAO)
 - [**PSMT**] Parameter-Selective Continual Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2407.02253) [Code](https://github.com/JiaxuTian/PSMT)
 - [**CTAOD**] Exploring Test-Time Adaptation for Object Detection in Continually Changing Environments (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.16439)
 - [**DoSAPP**] Controlling Forgetting with Test-Time Data in Continual Learning (arXiv 24) [Paper](https://arxiv.org/pdf/2406.13653)
@@ -58,7 +59,9 @@
 - [**DiffTPT**] Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning (ICCV 23) [Paper](https://arxiv.org/pdf/2308.06038) #diffusion
 - [**TPT**] Test-Time Prompt Tuning for Zero-shot Generalization in Vision-Language Models (NeurIPS 22) [Paper](https://arxiv.org/pdf/2209.07511.pdf)
 
-### Other
+### Continual Zero-Shot Transfer of VLMs
+- [**DIKI**] Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models (ECCV 24) [Paper](https://arxiv.org/pdf/2407.05342) [Code](https://github.com/lloongx/DIKI)
+- [**SPU**] Overcoming Generic Knowledge Loss with Selective Parameter Update (CVPR 24) [Paper](https://arxiv.org/pdf/2308.12462) [Code](https://github.com/wx-zhang/spu)
 - [**MoE-Adapters4CL**] Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters (CVPR 24) [Paper](https://arxiv.org/pdf/2403.11549) [Code](https://github.com/JiazuoYu/MoE-Adapters4CL)
 - [**CoLeCLIP**] CoLeCLIP: Open-Domain Continual Learning via Joint Task Prompt and Vocabulary Learning (ArXiv 24) [Paper](https://arxiv.org/pdf/2403.10245.pdf)
 - [**ZSCL**] Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (ICCV 23) [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Preventing_Zero-Shot_Transfer_Degradation_in_Continual_Learning_of_Vision-Language_Models_ICCV_2023_paper.pdf)
