@@ -2,10 +2,12 @@
 
 
 ### Classic TTA
+- [**DA-TTA**] Distribution Alignment for Fully Test-Time Adaptation with Dynamic Online Data Streams (ECCV 24) [Paper](https://arxiv.org/pdf/2407.12128) [Code](https://github.com/WZq975/DA-TTA)
+- [**STAD**] Test-Time Adaptation with State-Space Models (ArXiv 24) [Paper](https://arxiv.org/pdf/2407.12492)
 - [**WATT**] WATT: Weight Average Test-Time Adaption of CLIP (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.13875) [Code](https://github.com/Mehrdad-Noori/WATT)
 - [**PLF**] Less is More: Pseudo-Label Filtering for Continual Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.02609) [Code](https://github.com/tjy1423317192/PLF)
 - [**CLIPArTT**] CLIPArTT: Light-weight Adaptation of CLIP to New Domains at Test Time (ArXiv 24) [Paper](https://arxiv.org/pdf/2405.00754)
-- [**FOA***] Test-Time Model Adaptation with Only Forward Passes (ICML 24) [Paper](https://arxiv.org/pdf/2404.01650)
+- [**FOA**] Test-Time Model Adaptation with Only Forward Passes (ICML 24) [Paper](https://arxiv.org/pdf/2404.01650)
 - [**ATTA**] Active Test-Time Adaptation: Theoretical Analyses and An Algorithm (ICLR 24) [Paper](https://arxiv.org/pdf/2404.05094.pdf) [Code](https://github.com/divelab/ATTA)
 - [**GDA**] GDA: Generalized Diffusion for Robust Test-time Adaptation [Paper](https://arxiv.org/pdf/2404.00095.pdf) #diffusion
 - [**TTT-KD**] TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models [Paper](https://arxiv.org/pdf/2403.11691.pdf)
@@ -16,7 +18,7 @@
 - [**pSTarC**] pSTarC: Pseudo Source Guided Target Clustering for Fully Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Sreenivas_pSTarC_Pseudo_Source_Guided_Target_Clustering_for_Fully_Test-Time_Adaptation_WACV_2024_paper.pdf)
 - [**REALM**] REALM: Robust Entropy Adaptive Loss Minimization for Improved Single-Sample Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Seto_REALM_Robust_Entropy_Adaptive_Loss_Minimization_for_Improved_Single-Sample_Test-Time_WACV_2024_paper.pdf)
 - [**ROID**] Universal Test-time Adaptation through Weight Ensembling, Diversity Weighting, and Prior Correction (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Marsden_Universal_Test-Time_Adaptation_Through_Weight_Ensembling_Diversity_Weighting_and_Prior_WACV_2024_paper.pdf)
-- [] Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Layer-Wise_Auto-Weighting_for_Non-Stationary_Test-Time_Adaptation_WACV_2024_paper.pdf)
+- [...] Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation (WACV 24) [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Layer-Wise_Auto-Weighting_for_Non-Stationary_Test-Time_Adaptation_WACV_2024_paper.pdf)
 - [**CAFA**] CAFA: Class-Aware Feature Alignment for Test-Time Adaptation (ICCV 23) [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jung_CAFA_Class-Aware_Feature_Alignment_for_Test-Time_Adaptation_ICCV_2023_paper.pdf)
 - [**DDA**] Back to the Source: Diffusion-Driven Test-Time Adaptation (CVPR 23) [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Back_to_the_Source_Diffusion-Driven_Adaptation_To_Test-Time_Corruption_CVPR_2023_paper.pdf)
 - [**SAR**] Towards Stable Test-Time Adaptation in Dynamic Wild World (ICLR 23) [Paper](https://arxiv.org/pdf/2302.12400.pdf)
@@ -47,6 +49,7 @@
 ### Test-Time Prompt Tuning
 - [**BaFTA**] BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.11309) 
 - [**MTA**] On the test-time zero-shot generalization of vision-language models:Do we really need prompt learning? (CVPR 24) [Paper](https://arxiv.org/pdf/2405.02266) [Code](https://github.com/MaxZanella/MTA)
+- [**SSIAT**] Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer (CVPR 24) [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tan_Semantically-Shifted_Incremental_Adapter-Tuning_is_A_Continual_ViTransformer_CVPR_2024_paper.pdf)
 - [**TFUP-T**] Training-Free Unsupervised Prompt for Vision-Language Models (ArXiv 24) [Paper](https://arxiv.org/pdf/2404.16339) [Code](https://github.com/wlb12345/TFUP) #DomainNet
 - [**PromptSync**] PromptSync: Bridging Domain Gaps in Vision-Language Models through Class-Aware Prototype Alignment and Discrimination (CVPRW 24) [Paper](https://arxiv.org/pdf/2404.07520.pdf)
 - [**TDA**] Efficient Test-Time Adaptation of Vision-Language Models (CVPR 24) [Paper](https://arxiv.org/pdf/2403.18293.pdf) [Code](https://github.com/kdiAAA/TDA)
