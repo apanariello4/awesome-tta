@@ -47,6 +47,7 @@
 - [**CoTTA**] Continual Test-Time Domain Adaptation (CVPR 22) [Paper](https://arxiv.org/pdf/2203.13591.pdf)
 
 ### Test-Time Prompt Tuning
+- [**TTL**] Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models (ECCV 24) [Paper](https://arxiv.org/pdf/2407.15913) [Code](https://github.com/Razaimam45/TTL-Test-Time-Low-Rank-Adaptation)
 - [**BaFTA**] BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.11309) 
 - [**MTA**] On the test-time zero-shot generalization of vision-language models:Do we really need prompt learning? (CVPR 24) [Paper](https://arxiv.org/pdf/2405.02266) [Code](https://github.com/MaxZanella/MTA)
 - [**SSIAT**] Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer (CVPR 24) [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tan_Semantically-Shifted_Incremental_Adapter-Tuning_is_A_Continual_ViTransformer_CVPR_2024_paper.pdf)
