@@ -25,6 +25,7 @@
 - Test-Time Adaptation via Conjugate Pseudo-labels (NeurIPS 22) [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/28e9eff897f98372409b40ae1ed3ea4c-Paper-Conference.pdf)
 
 ### Continual TTA
+- [**Hybrid-TTA**] Hybrid-TTA: Continual Test-time Adaptation via Dynamic Domain Shift Detection (ArXiv 24) [Paper](https://arxiv.org/pdf/2409.08566.pdf)
 - [**OBAO**] Reshaping the Online Data Buffering and Organizing Mechanism for Continual Test-Time Adaptation (ECCV 24) [Paper](https://arxiv.org/pdf/2407.09367) [Code](https://github.com/z1358/OBAO)
 - [**PSMT**] Parameter-Selective Continual Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2407.02253) [Code](https://github.com/JiaxuTian/PSMT)
 - [**CTAOD**] Exploring Test-Time Adaptation for Object Detection in Continually Changing Environments (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.16439)
