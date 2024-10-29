@@ -68,6 +68,7 @@
 - [**TPT**] Test-Time Prompt Tuning for Zero-shot Generalization in Vision-Language Models (NeurIPS 22) [Paper](https://arxiv.org/pdf/2209.07511.pdf)
 
 ### Continual Zero-Shot Transfer of VLMs
+- [**RAIL**] Advancing Cross-domain Discriminability in Continual Learning of Vison-Language Models (NeurIPS 24) [Paper](https://arxiv.org/pdf/2406.18868)
 - [**DIKI**] Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models (ECCV 24) [Paper](https://arxiv.org/pdf/2407.05342) [Code](https://github.com/lloongx/DIKI)
 - [**SPU**] Overcoming Generic Knowledge Loss with Selective Parameter Update (CVPR 24) [Paper](https://arxiv.org/pdf/2308.12462) [Code](https://github.com/wx-zhang/spu)
 - [**MoE-Adapters4CL**] Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters (CVPR 24) [Paper](https://arxiv.org/pdf/2403.11549) [Code](https://github.com/JiazuoYu/MoE-Adapters4CL)
