@@ -27,7 +27,7 @@
 ### Continual TTA
 - [**Hybrid-TTA**] Hybrid-TTA: Continual Test-time Adaptation via Dynamic Domain Shift Detection (ArXiv 24) [Paper](https://arxiv.org/pdf/2409.08566.pdf)
 - [**OBAO**] Reshaping the Online Data Buffering and Organizing Mechanism for Continual Test-Time Adaptation (ECCV 24) [Paper](https://arxiv.org/pdf/2407.09367) [Code](https://github.com/z1358/OBAO)
-- [**PSMT**] Parameter-Selective Continual Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2407.02253) [Code](https://github.com/JiaxuTian/PSMT)
+- [**PSMT**] Parameter-Selective Continual Test-Time Adaptation (ACCV 24) [Paper](https://arxiv.org/pdf/2407.02253) [Code](https://github.com/JiaxuTian/PSMT)
 - [**CTAOD**] Exploring Test-Time Adaptation for Object Detection in Continually Changing Environments (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.16439)
 - [**DoSAPP**] Controlling Forgetting with Test-Time Data in Continual Learning (arXiv 24) [Paper](https://arxiv.org/pdf/2406.13653)
 - [**DPCore**] Dynamic Domains, Dynamic Solutions: DPCore for Continual Test-Time Adaptation (ArXiv 24) [Paper](https://arxiv.org/pdf/2406.10737) [Code](https://github.com/zybeich/DPCore)
